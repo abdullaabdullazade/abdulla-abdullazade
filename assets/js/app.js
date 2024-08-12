@@ -148,7 +148,7 @@ let footer = $(`
       </li>
       <li style="margin-bottom: 10px;">
         <i class="fas fa-database" style="margin-right: 10px;"></i>
-        SQL, MongoDB
+        SQL, MongoDB, Firebase
       </li>
       <li style="margin-bottom: 10px;">
         <i class="fas fa-server" style="margin-right: 10px;"></i>
