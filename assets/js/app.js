@@ -209,6 +209,9 @@ let footer = $(`
     </div>
     </div>
 </footer>
+
+<p style="text-align: center;">&copy; 2024 All rights reserved.</p>
+
 `);
 
 //"Scroll to top" button
